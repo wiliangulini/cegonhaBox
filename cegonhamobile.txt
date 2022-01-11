@@ -1,0 +1,42 @@
+mobile:
+ok - icone cegonhabox junto do como funcion
+
+ok - bolinhas do carousel 6px
+
+ok - seja uma mae ceonha e torne ... mais fino o bolder
+
+ok - escolha, personalize, cegonha-se sao negrito
+
+ok - icone personalize esta cortado retirar height;
+
+ok - o que vou receber na minha cegonhabox, imagem da cegonha mto perto dos card
+
+ok - o que vou receber na minha cegonhabox fundo sem border-radius
+
+ok - o que vou receber na minha cegonhabox items font-weight 550
+
+ok - o que vou receber na minha cegonhabox , carousel mais pra baixo dos botoes e trocar a imagem de fundo ta cortando
+
+ok - sombras dos card dos preços
+
+ok - escolha seu plano ideal mais fina
+
+ok - preto do + frete retirar e colocar cor certa.
+
+ok - adicionar mensal+frete nos cards de preços
+
+ok - adicionar estrela no completo
+
+ok - adicionar .active no completo, e quando clicar em outro card, retirar o fundo e deixar o fundo no que foi clicado.
+
+ok - frete pix font 13, entregamos font 11
+
+ok - carousel mae cegonha fala letra mais fina no weigth
+
+ok - carousel mae cegonha descer mais indicators
+
+ok - caixa da fala da cegonha menor
+
+ok - botao mae cegonha menor
+
+ok - cegonha esquerda perto do box de fala
